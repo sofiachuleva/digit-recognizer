@@ -18,6 +18,8 @@
   
 	```bash
 	git clone https://github.com/sofiachuleva/digit-recognizer.git
+ 	```
+ 	```bash
 	cd digit-recognizer
 	```
 3. Датасет
